@@ -23,19 +23,19 @@
 
 The full project logo that should primarily be used.
 
-![Full Logo](images/logo_name_black.svg | width=400)
+<img src="images/logo_name_black.svg" alt="Full Logo" width="400px">
 
 The lighthouse only.
 
-![Lighthouse Only](images/logo.svg | width=100)
+<img src="images/logo.svg" alt="Lighthouse Only" width="100px">
 
 The project icon that should be used when displayed at less than
 ~64x64 pixels.
 
-![Small Icon](images/icon_small.svg | width=250)
+<img src="images/icon_small.svg" alt="Small Icon" width="64px">
 
 The project icon that should be used when displayed larger than
 ~64x64 pixels.
 
-![Large Icon](images/icon_large.svg | width=250)
+<img src="images/icon_large.svg" alt="Large Icon" width="128px">
 
